@@ -1,0 +1,51 @@
+body {
+    background-image: url("./img/Background.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+#card{
+    align-self: center;
+    max-Width: "20rem";
+}
+
+#card.status{
+    text-align: center;
+}
+
+.card-header{
+    text-align: center;
+    font-size: 400%;
+}
+
+.center-message{
+    text-align: center;
+}
+
+#homeStatus{
+    font-size: 18px;
+    text-align: center;
+    }
+
+#homeheader{
+font-size: 60px;
+text-align: center;
+}
+
+#homeTitle{
+    color:Yellow;
+    text-align:center;
+    font-size: 30px;
+}
+
+
+a.nav-link{
+    font-weight:800
+}
+
+a.nav-link:hover{
+    cursor: pointer;
+    border-radius: 5px;
+    background: darkgray;
+}
+
